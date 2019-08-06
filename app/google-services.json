@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "735553113751",
+    "firebase_url": "https://truechat-ad6f6.firebaseio.com",
+    "project_id": "truechat-ad6f6",
+    "storage_bucket": "truechat-ad6f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735553113751:android:a1c8e298abdbaa41",
+        "android_client_info": {
+          "package_name": "me.moonss.truechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735553113751-1m39mvcl4pgbisshrc326vuvo41pk8bp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.moonss.truechat",
+            "certificate_hash": "1d97a3d4f66cc643442c1a7107bc72e61efc8274"
+          }
+        },
+        {
+          "client_id": "735553113751-u7h8etj8tpvp038nhqq6ejep28oo6ok3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZBX8ikEBQXcmOaafKLeCkVKa8PCbu6ho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735553113751-u7h8etj8tpvp038nhqq6ejep28oo6ok3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
